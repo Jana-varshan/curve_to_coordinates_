@@ -11,3 +11,5 @@ output:
 ![image](https://github.com/Jana-varshan/curve-to-coordinates-/assets/167455585/a47fff84-fd8f-4a78-b412-cc66a28012dd)
 
 ![image](https://github.com/Jana-varshan/curve-to-coordinates-/assets/167455585/d9df9d9f-4f8c-4225-b45b-4f3d822db228)
+
+This project was made as a part of Atom Robotics, VIT Chennai
