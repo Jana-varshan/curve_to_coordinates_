@@ -1,9 +1,5 @@
 # curve-to-coordinates-
-this program converts the curve to a list of coordinates.
-
-this converts the curve as a png considers the left bottom as origin  and gives you 5000 pairs of coordinates and plots the curve using that data.
-in case of wrong plotting adjust a kernel value of gaussion blur.
-input:
+This program converts a curve into a series of coordinates and generates a PNG image by considering the bottom-left corner as the origin. It produces 5000 pairs of coordinates that represent the curve, which are then plotted on a graph. In cases where the curve is not plotted correctly, the program allows for adjustments to the kernel value of the Gaussian blur to refine the image. This process ensures accurate visualization of the curve based on the given data.
 ![img_4](https://github.com/Jana-varshan/curve-to-coordinates-/assets/167455585/905caba8-78e4-4468-94db-8ad0dba04e70)
 
 output:
